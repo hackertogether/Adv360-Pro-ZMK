@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
- &kp GRAVE    &kp N1    &kp N2    &kp N3     &kp N4  &kp N5                     &tog 3                                                                              &kp N6  &kp N7    &kp N8     &kp N9    &kp N0  &kp MINUS  &kp EQUAL
-   &kp TAB     &kp Q     &kp W     &kp E      &kp R   &kp T            &macro_switch_1                                                                     &macro_switch_3   &kp Y     &kp U      &kp I     &kp O      &kp P   &kp BSLH
-  &kp CAPS     &kp A     &kp S     &kp D      &kp F   &kp G            &macro_switch_2    &kp ESC  &kp HOME   &none   &none      &mo 1  &kp K_SCREENSAVER  &macro_switch_4   &kp H     &kp J      &kp K     &kp L   &kp SEMI    &kp SQT
- &kp LSHFT     &kp Z     &kp X     &kp C      &kp V   &kp B                      &none      &none   &kp END   &none   &none  &kp PG_UP              &none            &none   &kp N     &kp M  &kp COMMA   &kp DOT   &kp FSLH  &kp RSHFT
- &kp LCTRL  &kp LALT  &kp LCMD  &kp LEFT  &kp RIGHT                           &kp LCMD  &kp SPACE     &mo 2                  &kp PG_DN           &kp BSPC        &kp ENTER          &kp LBKT   &kp RBKT  &kp DOWN     &kp UP  &kp RCTRL
+ &kp GRAVE    &kp N1    &kp N2    &kp N3     &kp N4  &kp N5                     &tog 3                                                                           &kp N6  &kp N7    &kp N8     &kp N9    &kp N0  &kp MINUS  &kp EQUAL
+   &kp TAB     &kp Q     &kp W     &kp E      &kp R   &kp T            &macro_switch_1                                                                  &macro_switch_3   &kp Y     &kp U      &kp I     &kp O      &kp P   &kp BSLH
+  &kp CAPS     &kp A     &kp S     &kp D      &kp F   &kp G            &macro_switch_2    &kp ESC  &kp HOME   &none   &none      &mo 1  &kp SCROLLLOCK  &macro_switch_4   &kp H     &kp J      &kp K     &kp L   &kp SEMI    &kp SQT
+ &kp LSHFT     &kp Z     &kp X     &kp C      &kp V   &kp B                      &none      &none   &kp END   &none   &none  &kp PG_UP           &none            &none   &kp N     &kp M  &kp COMMA   &kp DOT   &kp FSLH  &kp RSHFT
+ &kp LCTRL  &kp LALT  &kp LCMD  &kp LEFT  &kp RIGHT                           &kp LCMD  &kp SPACE     &mo 2                  &kp PG_DN        &kp BSPC        &kp ENTER          &kp LBKT   &kp RBKT  &kp DOWN     &kp UP  &kp RCTRL
             >;
         };
 
